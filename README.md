@@ -1,4 +1,4 @@
-- <a href="https://www.linkedin.com/in/odenilsonmarques/" bgcolor:'#000fff'>LInkdin</a>
+ <a href="https://www.linkedin.com/in/odenilsonmarques/">LinkedIn</a>
 
 - 👨‍🎓 Graduando de sistema de informação
 - 🗺️ Natural do Maranhão 
