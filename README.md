@@ -1,4 +1,4 @@
-- <a href="https://www.linkedin.com/in/odenilsonmarques/" style="background-color:#000FFF;color:#FFF">LInkdin</a>
+- <a href="https://www.linkedin.com/in/odenilsonmarques/" style="background-color:red">LInkdin</a>
 - 🔗link
 
 - 👨‍🎓 Graduando de sistema de informação
