@@ -1,3 +1,5 @@
+- �https://www.linkedin.com/in/odenilsonmarques/
+
 - 👨‍🎓 Graduando de sistema de informação
 - 🗺️ Natural do Maranhão 
 - 👨‍💼 Atuando na área desde 2017
