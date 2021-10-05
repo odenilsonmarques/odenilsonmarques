@@ -1,5 +1,4 @@
-- <a href="https://www.linkedin.com/in/odenilsonmarques/" style="background-color:red">LInkdin</a>
-- 🔗link
+
 
 - 👨‍🎓 Graduando de sistema de informação
 - 🗺️ Natural do Maranhão 
@@ -9,6 +8,5 @@
 - 🔙 BackEnd 
 
 <!---
-Projetos/odenilsonmarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+odenilson
 --->
