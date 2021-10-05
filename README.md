@@ -1,4 +1,4 @@
-
+- <a href="https://www.linkedin.com/in/odenilsonmarques/" bgcolor:'#000fff'>LInkdin</a>
 
 - 👨‍🎓 Graduando de sistema de informação
 - 🗺️ Natural do Maranhão 
@@ -7,6 +7,4 @@
 - 💻 Codifico para solucionar problema e facilitar a vida dos usuários
 - 🔙 BackEnd 
 
-<!---
-odenilson
---->
+
