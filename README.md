@@ -1,5 +1,6 @@
- <a href="https://www.linkedin.com/in/odenilsonmarques/">LinkedIn</a>
+- Odenilson Marques<hr>
 
+- 🔗 <a href="https://www.linkedin.com/in/odenilsonmarques/">LinkedIn</a> 
 - 👨‍🎓 Graduando de sistema de informação
 - 🗺️ Natural do Maranhão 
 - 👨‍💼 Atuando na área desde 2017
