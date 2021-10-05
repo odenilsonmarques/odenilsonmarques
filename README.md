@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @odenilsonmarques
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👨‍🎓 Graduando de sistema de informação
+- 🗺️ Natural do Maranhão 
+- 👨‍💼  Atou na área desde 2017
+- ❤️ Apaixonado por tecnologia e pela natureza
+- 💻 Codifico para solucionar problema e facilitar a vida dos usuários
+- 🔙 BackEnd 
 
 <!---
 odenilsonmarques/odenilsonmarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
